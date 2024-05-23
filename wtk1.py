@@ -8,7 +8,7 @@ Original file is located at
 """
 
 """SentencePiece based word tokenizer module"""
-!git clone https://github.com/wajid-hussain-ali/urduproject.git
+
 
 from pathlib import Path
 from typing import List
